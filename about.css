@@ -1,0 +1,15 @@
+#founderImage{
+  display: block;
+  margin: 0vw 12vw;
+}
+
+
+#name{
+  font-size: 45px;
+  text-align: center;
+}
+
+#storyTag , #story{
+  padding: 5vw;
+  text-align: left;
+}
